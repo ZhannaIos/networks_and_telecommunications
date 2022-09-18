@@ -1,0 +1,39 @@
+h1 {
+  color: rgba(170, 104, 151, 0.9);
+  font-family: "Open Sans";
+  text-align: center;
+}
+
+h2 {
+  color: rgba(190, 150, 151, 0.9);
+  font-family: "Open Sans";
+  text-align: center;
+}
+
+body {
+  background: url('https://oir.mobi/uploads/posts/2021-03/1616581110_37-p-nezhnie-tsveta-fon-42.jpg');
+  background-size: cover;
+}
+
+.table {
+  width: 100%;
+  margin-bottom: 20px;
+  border: 15px solid #F2F8F8;
+  border-top: 5px solid #F2F8F8;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.table th {
+  font-weight: bold;
+  padding: 5px;
+  background: #F2F8F8;
+  border: none;
+  border-bottom: 5px solid #F2F8F8;
+}
+
+.table td {
+  padding: 5px;
+  border: none;
+  border-bottom: 5px solid #F2F8F8;
+}
